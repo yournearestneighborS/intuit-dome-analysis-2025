@@ -82,10 +82,12 @@ Data Cleaning, Data Wrangling, Data Integration, Exploratory Data Analysis (EDA)
 ---
 
 ## Project Structure
+```
 ├── data/
 ├── notebook/
 ├── report/
 ├── README.md
+```
 ---
 
 ## Author
